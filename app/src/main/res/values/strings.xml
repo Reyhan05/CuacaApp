@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CuacaApp</string>
+    <string name="txt_32_c">32 °C</string>
+    <string name="txt_content_image_weather">Content Image Weather</string>
+</resources>
